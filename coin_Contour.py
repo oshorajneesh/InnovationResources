@@ -1,4 +1,3 @@
-__author__ = 'devndraghimire'
 
 import numpy as np
 import cv2

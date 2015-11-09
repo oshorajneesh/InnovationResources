@@ -1,4 +1,4 @@
-__author__ = 'devndraghimire'
+
 # Track objects in webcam based on Hue value.
 # Use object position to control cursor on macbook
 # Optimised to track yellow beak of rubber duck!
